@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, sans-serif;
+}
+header{
+    font-family: Helvetica, arial, sans-serif;
+}
+.wrap-header{
+    position: fixed;
+    width: 100%;
+}
+/* TEST NAV BAR */
+.box-left{
+    font-size: 20px;
+    font-weight: bold;
+}
+.box-right{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+/* SONY LOGO WITH BLACK BACKGROUND */
+.sony_logo{
+    background-color: black;
+    width: 100%;
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.sony_logo img{
+    width: 150px;
+    font-size: 30px;
+    padding: 15px 25px;
+}
+/* HEADER LIST */
+.chevron ul{
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+}
+.chevron ul li{
+    padding: 0 15px;
+}
+.chevron ul li img{
+   width: 10px;
+   margin: 0 10px;
+}
+
+.play_logo{
+    width: 50px;
+}
