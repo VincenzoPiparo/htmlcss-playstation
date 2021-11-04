@@ -4,7 +4,7 @@ body{
 header{
     font-family: Helvetica, arial, sans-serif;
 }
-
+/* HEADER */
 .wrap_header{
     position: relative;
     height: 50px;
@@ -32,5 +32,29 @@ header{
 }
 /* BTN HEADER */
 .btn_header{
+    border-radius: 15px;
+}
+
+/* MAIN */
+/* JUMBOTRON */
+.wrap_jumbo {
+    width: 100%;
+    background-image: url(../img/jumbo-bg.png);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+}
+
+.text_jumbo{
+    padding: 100px 40px;
+    margin-bottom: 25px;
+    line-height: 30px;
+    color: white;
+}
+
+.btn_jumbo{
     border-radius: 15px;
 }
