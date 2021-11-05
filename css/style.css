@@ -58,3 +58,13 @@ header{
 .btn_jumbo{
     border-radius: 15px;
 }
+/* SINGLE IMAGE */
+.image_section{
+    display: flex;
+    justify-content: space-between;
+    margin: 35px;
+}
+
+.single_img{
+    border-radius: 25px;
+}
