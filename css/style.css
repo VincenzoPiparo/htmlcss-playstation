@@ -60,11 +60,9 @@ header{
 }
 /* SINGLE IMAGE */
 .image_section{
-    display: flex;
-    justify-content: space-between;
-    margin: 35px;
-}
-
-.single_img{
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 20px;
     border-radius: 25px;
 }
+
