@@ -114,18 +114,32 @@ header{
 .wrap_text{
     
 }
-
 /* OTHERS PRODUCTS */
 .others_prod{
     margin-left: 50px;
     width: 150px;
 }
 .font_icon{
-    font-size: 10px;
-    
+    font-size: 10px;   
 }
 .text_others_prod{
     text-align: center;
     margin-right: 40px;
     margin-bottom: 80px;
+}
+/* SHOP PRODUCT */
+.wrap_shop{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.shop{
+    background-color:black ;
+    color: white;
+}
+.product_img{
+    width: 250px;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 50px;
 }
