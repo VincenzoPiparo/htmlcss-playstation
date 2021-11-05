@@ -47,17 +47,26 @@ header{
     display: flex;
     align-items: flex-end;
 }
-
+.wrap_billboard{
+    width: 100%;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: flex-end;
+}
 .text_jumbo{
     padding: 100px 40px;
     margin-bottom: 25px;
     line-height: 30px;
     color: white;
 }
-
 .btn_jumbo{
     border-radius: 15px;
 }
+/* SECTION GAME CARD */
 /* SINGLE IMAGE */
 .image_section{
     width: 250px;
@@ -65,4 +74,58 @@ header{
     margin-left: 20px;
     border-radius: 25px;
 }
+/* ADVERTISING */
+.advertising{
+    text-align: center;
+    margin-top: 100px;
+}
+.advertising h5{
+    color: #1f83d4;
+}
 
+.advertising p{
+    margin-top: 40px;
+    font-size: 20px;
+}
+/* SECTION PLAYSTATION */
+
+.wrap_play{
+    margin-top: 200px;
+}
+.wrap_play h2{
+    margin-left: 20px;
+    
+}
+.wrap_play p{
+    margin-left: 20px;
+}
+.wrap_play img{
+    width: 800px;
+}
+
+.text_play{
+    margin-top: 400px;
+    text-align: center;
+}
+.btn_play{
+    border-radius: 15px;
+    margin-left: 20px;
+}
+.wrap_text{
+    
+}
+
+/* OTHERS PRODUCTS */
+.others_prod{
+    margin-left: 50px;
+    width: 150px;
+}
+.font_icon{
+    font-size: 10px;
+    
+}
+.text_others_prod{
+    text-align: center;
+    margin-right: 40px;
+    margin-bottom: 80px;
+}
