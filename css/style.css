@@ -136,10 +136,14 @@ header{
     background-color:black ;
     color: white;
 }
+.shop p{
+    margin-left: 15px;
+    text-align: center;
+}
 .product_img{
-    width: 250px;
+    width: 230px;
     border-radius: 15px;
     margin-top: 10px;
     margin-left: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
