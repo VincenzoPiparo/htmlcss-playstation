@@ -111,9 +111,7 @@ header{
     border-radius: 15px;
     margin-left: 20px;
 }
-.wrap_text{
-    
-}
+
 /* OTHERS PRODUCTS */
 .others_prod{
     margin-left: 50px;
@@ -140,10 +138,28 @@ header{
     margin-left: 15px;
     text-align: center;
 }
+.shop i{
+    font-size: 10px;
+}
 .product_img{
     width: 230px;
     border-radius: 15px;
     margin-top: 10px;
     margin-left: 50px;
     margin-bottom: 20px;
+}
+/* SECTION PS4 */
+.wrap_ps4{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.wrap_ps4 h2{
+    text-align: center;
+}
+.wrap_ps4 p{
+    text-align: center;
+}
+
+.wrap_item_ps4{
+    margin-left: 100px;
 }
