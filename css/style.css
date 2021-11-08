@@ -204,3 +204,11 @@ header{
     border-radius: 15px;
     font-size: 20px;
 }
+/* SECTION CONTACT SOCIAL */
+.text_social{
+    margin: 55px 0;
+    text-align: center;
+}
+.img_social{
+    width: 100%;
+}
