@@ -57,6 +57,10 @@ header{
     display: flex;
     align-items: flex-end;
 }
+.wrap_plus{
+    margin-top: 50px;
+    background-color:#bebcbb;
+}
 .text_jumbo{
     padding: 100px 40px;
     margin-bottom: 25px;
@@ -162,4 +166,27 @@ header{
 
 .wrap_item_ps4{
     margin-left: 100px;
+}
+
+/* PLAYSTATION PLUS SECTION */
+.wrap_plus{
+    background-image: url(../img/ps-plus-april-monthly-games-featured-image-block.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.ps_plus_logo{
+    width: 300px; 
+    margin-bottom: 25px;
+}
+
+.btn_plus{
+    margin-top: 20px;
+    color: #2d64e6;
+    border-radius: 15px;
+}
+
+.img_games_plus{
+    height: 516.44px;
+    
 }
