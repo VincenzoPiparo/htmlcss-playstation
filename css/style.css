@@ -173,8 +173,9 @@ header{
     background-image: url(../img/ps-plus-april-monthly-games-featured-image-block.png);
     background-repeat: no-repeat;
     background-position: right;
-    
+    background-size: 600px;
 }
+
 .ps_plus_logo{
     width: 300px; 
     margin-bottom: 25px;
