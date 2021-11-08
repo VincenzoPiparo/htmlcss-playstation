@@ -211,4 +211,27 @@ header{
 }
 .img_social{
     width: 100%;
+    margin-bottom: 50px;
+}
+
+/* FOOTER SECTION */
+.footer{
+    background-color:#00439c ;
+    color: white;
+}
+
+.img_play_logo{
+    width: 100px;
+    display: block;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.footer ul{
+    list-style-type: none;
+    margin-top: 70px;
+    
+}
+
+.sie_logo{
+    width: 70px;
 }
