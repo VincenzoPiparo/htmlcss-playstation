@@ -169,25 +169,16 @@ header{
 }
 
 /* PLAYSTATION PLUS SECTION */
-.wrap_plus{
-    background-image: url(../img/ps-plus-april-monthly-games-featured-image-block.png);
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: 600px;
-}
-
 .ps_plus_logo{
     width: 300px; 
     margin-bottom: 25px;
+    margin-top: 50px;
 }
-
 .btn_plus{
     margin-top: 20px;
     color: #2d64e6;
     border-radius: 15px;
 }
-
-.img_games_plus{
-    height: 516.44px;
-    
+.img_plus{
+    width: 100%;
 }
