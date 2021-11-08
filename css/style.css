@@ -182,3 +182,14 @@ header{
 .img_plus{
     width: 100%;
 }
+/* DISCOUNT PS */
+.text_discount{
+    margin-top: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+/* SECTION BANNER */
+.img_banner{
+    width: 100%;
+    margin: 20px 0;
+}
